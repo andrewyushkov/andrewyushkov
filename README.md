@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @andrewyushkov
+- Senior React Developer. 
+- Working in Medialogia.
