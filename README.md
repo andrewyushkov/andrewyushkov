@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @andrewyushkov
-- Senior React Developer. 
+- Lead React Developer. 
 - Working in Medialogia.
